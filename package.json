@@ -1,6 +1,6 @@
 {
   "name": "postcss-unit-converter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "PostCSS plugin that provides functions to convert CSS values from one unit to another.",
   "keywords": [
     "postcss",
