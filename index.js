@@ -1,3 +1,1 @@
-/**
- * Created by Walid on 29/07/17.
- */
+module.exports = true;
