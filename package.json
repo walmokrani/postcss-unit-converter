@@ -1,6 +1,22 @@
 {
   "name": "postcss-unit-converter",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "version": "0.0.0",
+  "description": "PostCSS plugin that provides functions to convert CSS values from one unit to another.",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "value",
+    "unit",
+    "converter",
+    "convert"
+  ],
+  "author": "Mokrani Walid <walid.mokrani@mps.dz>",
+  "license": "MIT",
+  "repository": "walmokrani/postcss-unit-converter",
+  "bugs": {
+    "url": "https://github.com/walmokrani/postcss-unit-converter/issues"
+  },
+  "homepage": "https://github.com/walmokrani/postcss-unit-converter",
+  "main": "index.js"
 }
