@@ -7,5 +7,4 @@ node_js:
 deploy:
   provider: npm
   api_key: NPM_API_KEY
-  on: deploy-npm-release
   email: wal.mokrani@gmail.com
