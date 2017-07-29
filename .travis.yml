@@ -4,7 +4,14 @@ node_js:
 - stable
 - '6'
 - '4'
+branches:
+  only:
+  - master
 deploy:
   provider: npm
   api_key: NPM_API_KEY
   email: wal.mokrani@gmail.com
+  on:
+    repo: walmokrani/postcss-unit-converter
+    tags: true
+    all_branches: true
