@@ -18,7 +18,7 @@
     "url": "https://github.com/walmokrani/postcss-unit-converter/issues"
   },
   "homepage": "https://github.com/walmokrani/postcss-unit-converter",
-  "main": "index.js",
+  "main": "lib/index.js",
   "dependencies": {
     "postcss": "^6.0.8"
   },
